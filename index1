@@ -1,1 +1,27 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Volta as aulas</title>
+    <link rel="stylesheet" href="paginainicial.css" href="stylesheet.css">
+</head>
 
+<header>
+    
+  <p class="parágrafo">O ano de 2023 foi um ano de muitas aprendizagens, tanto na vida quanto escolar.
+    A melhor coisa de ter entrado nesse colégio foi ter conhecido algumas pessoas e ter aprendido o básico sobre T.I,
+    coisa que pode ajudar muito no futuro.
+    Minhas metas para esse ano, são: Melhorar como pessoa, focar mais nos estudos e melhorar minha saúde mental.
+  </p>
+</header>
+
+<main>
+   
+    <img src="Sc53aadeeae9d41c683c8df7633e7c397P.jpg_640x640Q90.jpg_.webp">
+
+</main>
+
+<body>
+
+</html>
